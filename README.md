@@ -28,10 +28,10 @@ Download the ropository and extract in a directory.
 
 # Standalone execution
 The following command line has to be used from the shell in the same directory of files:
-    ```
+    
 
     python3 main.py
-    ```
+    
 
 
 
