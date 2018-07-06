@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import itertools
 import tqdm
 import demon as d
-import pquality
 from collections import Counter
 from collections import defaultdict
 import timeCount
