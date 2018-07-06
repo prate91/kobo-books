@@ -20,6 +20,7 @@ Kobo-books is written in python and requires the following package to run:
 
 # Citation
 If you use our algorithm please cite the following works:
+
 >Corsi, Ludovica; Fonzi, Davide; Pratelli, Nicolò; Rescigno, Jacopo
 >Analisi del network "Kobo-books" - Correlazione dei libri consigliati dal sito www.kobo.com
 
