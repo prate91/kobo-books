@@ -11,7 +11,7 @@ If you use our algorithm please cite the following works:
 
 ## Instructions:
 
-In order to install the package just download (or clone) the current project and copy the scraper-kobo folder in the root of your application.
+In order to install the package just download (or clone) the current project and copy the kobo-books folder in the root of your application.
 
 Kobo-books is written in python and requires the following package to run:
 
