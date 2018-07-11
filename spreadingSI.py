@@ -20,5 +20,5 @@ def siModel(graph, iteration):
     trends = si_model.build_trends(iterations)
 
     viz = DiffusionTrend(si_model, trends)
-    p = viz.plot(width=400, height=400)
+    p = viz.plot(width=800, height=800)
     show(p)
